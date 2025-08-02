@@ -75,16 +75,6 @@ An AI-powered agent that uses natural conversation to deliver tailored career ad
 
 ---
 
-## 📌 How to Run or Deploy
-
-1. Clone the GitHub repo  
-2. Import chatbot JSON into IBM Watson Assistant  
-3. Upload vector data into Watsonx knowledge base  
-4. Deploy using Watsonx Runtime  
-5. Call endpoint using bearer token and user input
-
----
-
 ## 🔮 Future Scope
 
 - Multilingual chat-based support  
@@ -115,5 +105,5 @@ An AI-powered agent that uses natural conversation to deliver tailored career ad
 ## 👋 Contact
 
 Created with ❤️ by **[Pratiksha Suryakant Bhosle]**  
-📧 [your.bhoslepratiksha18@gmail.com]  
+📧 bhoslepratiksha18@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/pratikshabhosle](#)
