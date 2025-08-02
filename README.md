@@ -104,6 +104,6 @@ An AI-powered agent that uses natural conversation to deliver tailored career ad
 
 ## 👋 Contact
 
-Created with ❤️ by **Pratiksha Suryakant Bhosle**  
+Created by **Pratiksha Suryakant Bhosle**  
 📧 bhoslepratiksha18@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/pratikshabhosle](#)
